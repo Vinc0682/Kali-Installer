@@ -3,4 +3,4 @@ This script installs the kali-tools on debian machines. It was originally design
 
 WARNING: Since this script overwrites the sources list, it seriously may break stuff.
 
-To execute, simply run ``wget https://raw.githubusercontent.com/Vinc0682/Kali-Installer/master/kali-installer.sh | bash`` as root.
+To execute, simply run ``curl https://raw.githubusercontent.com/Vinc0682/Kali-Installer/master/kali-installer.sh | bash`` as root.
